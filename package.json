@@ -25,7 +25,7 @@
 		"copyfiles": "^2.4.1",
 		"discord.js": "14.10.2",
 		"dotenv": "^16.0.3",
-		"mineflayer": "^4.4.0",
+		"mineflayer": "^4.20.0",
 		"obscenity": "^0.1.4",
 		"pnpm": "^8.15.3",
 		"prismarine-chat": "^1.9.1"
